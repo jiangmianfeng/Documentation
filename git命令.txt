@@ -16,6 +16,9 @@ git pull
 git checkout dev
 git merge master 
 git push -u origin dev
+git branch -D 分支名
+rm 文件名 删除文件
+mv 源文件 重命名文件
 
 辅
  git clone 地址
